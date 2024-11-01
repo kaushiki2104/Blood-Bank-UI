@@ -1,0 +1,22 @@
+.header-container{
+  background: red;
+}
+.header-container a{
+  color: white !important;
+}
+.header-container a.active{
+  color: white;
+  font-weight: bold;
+}
+.navbar{
+  position: relative;
+}
+ .navbar-container>div{
+  position: absolute;
+  right: 0;
+} 
+.service-container{
+  background: red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
