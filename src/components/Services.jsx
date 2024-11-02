@@ -3,7 +3,7 @@ import helpImage from '../assets/image/help.png';
 
 const Services=()=> {
   return (
-  <div className="container mt-3">
+  <div className="container mt-3 bg-red">
     <div className="row">
     <div className="col-3 text-container">
     <div class="card" >
